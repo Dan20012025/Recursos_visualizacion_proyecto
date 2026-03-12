@@ -4,5 +4,5 @@ Este repositorio contiene los documentos de planeación y la entrega final del p
 
 ## Documentos
 
-- 📄 [Planeación inicial del proyecto](./Planeación_Proyecto.pdf)
+- 📄 [Planeación inicial del proyecto](./Planeación_proyecto.pdf)
 - 📑 [Entrega final del proyecto](./Entrega_Final_Proyecto.pdf)
